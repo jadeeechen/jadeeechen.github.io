@@ -2,15 +2,36 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Jade Chen",
     "section": "",
-    "text": "About this site"
+    "text": "👋 Hi, I’m Jade!\n👩🏻‍🍳 My journey began in an unexpected place—the kitchen. As a pastry chef, I thrived in fine dining, wholesale, and catering environments, where precision and efficiency were essential. While I loved the craft, I realized that the industry’s lifestyle wasn’t the right long-term fit for me.\n🧠 This led me to explore my interest in human behavior, pursuing a B.A. in Psychology. I developed a strong foundation in behavioral neuroscience, gravitating toward analytically focused coursework. Through my studies, I became increasingly curious about how data could be used to better understand complex social issues.\n👩🏻‍💻 That curiosity led me to pursue a B.Sc. minor in Data Science, where I gained expertise in machine learning, statistical modeling, and data visualization. I worked on projects analyzing mental health trends and educational outcomes, blending my passion for psychology with data-driven insights.\n💼 Now, as I approach graduation in May 2025, I’m looking for opportunities as a data analyst in organizations that use data for social good. My goal is to transform complex data into actionable insights that drive positive change in mental health and beyond."
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "Jade Chen",
+    "section": "",
+    "text": "👋 Hi, I’m Jade!\n👩🏻‍🍳 My journey began in an unexpected place—the kitchen. As a pastry chef, I thrived in fine dining, wholesale, and catering environments, where precision and efficiency were essential. While I loved the craft, I realized that the industry’s lifestyle wasn’t the right long-term fit for me.\n🧠 This led me to explore my interest in human behavior, pursuing a B.A. in Psychology. I developed a strong foundation in behavioral neuroscience, gravitating toward analytically focused coursework. Through my studies, I became increasingly curious about how data could be used to better understand complex social issues.\n👩🏻‍💻 That curiosity led me to pursue a B.Sc. minor in Data Science, where I gained expertise in machine learning, statistical modeling, and data visualization. I worked on projects analyzing mental health trends and educational outcomes, blending my passion for psychology with data-driven insights.\n💼 Now, as I approach graduation in May 2025, I’m looking for opportunities as a data analyst in organizations that use data for social good. My goal is to transform complex data into actionable insights that drive positive change in mental health and beyond."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Jade Chen",
+    "section": "Education",
+    "text": "Education\nUniversity of British Columbia B.A. Major in Psychology B.Sc. Minor in Data Science"
+  },
+  {
+    "objectID": "about.html#outside-of-data",
+    "href": "about.html#outside-of-data",
+    "title": "Jade Chen",
+    "section": "Outside of Data",
+    "text": "Outside of Data\n🧗 Climbing I’m the community outreach executive and routesetter at UBC’s Aviary Climbing Gym, where I set sport climbing problems and organize community events.\n📖 Social and Emotional Learning (SEL) I co-founded Human Bean Books, where I lead secondary research for children’s books that promote emotional well-being and literacy.\n🍪 Pastry I still love creating pastries and experimenting with new recipes in my free time. Currently, I am developing a recipe book to share with friends and family."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Jade Chen",
     "section": "",
-    "text": "This is Jade Chen’s portfolio.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "I’m a data analyst with a background in data science and psychology. I specialize in statistical analysis, predictive modeling, and data visualization using Python, R, and SQL."
   }
 ]

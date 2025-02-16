@@ -1,7 +1,15 @@
 ---
 title: "Jade Chen"
+image: images/headshot.jpg
+about:
+  template: jolla
+  links:  # add links to your various social profiles
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jadeeechen
+    - icon: github
+      text: Github
+      href: https://github.com/jadeeechen
 ---
 
-This is Jade Chen's portfolio.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm a data analyst with a background in data science and psychology. I specialize in statistical analysis, predictive modeling, and data visualization using Python, R, and SQL.
