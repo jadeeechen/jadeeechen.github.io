@@ -1,0 +1,15 @@
+## Prediction of Student Performance in Mathematics
+**Link**: [GitHub](https://github.com/jadeeechen/stat-301_student-performance-mathematics_winter-2023/blob/main/Project%20-%20Group%20Final%20Report.ipynb)  
+**Duration**: Sept 2023 – Dec 2023  
+**Tools Used**: R, Lasso Regularization, Predictive Modeling  
+
+In this project, I used **Lasso regularization** to predict student performance in mathematics. By applying **predictive modeling** techniques in R, I was able to improve the model’s accuracy by 7%. The project involved extensive **data preprocessing**, feature selection, and **model evaluation**.
+
+
+
+## Wellbeing During COVID-19 in the UK
+**Link**: TODO    
+**Duration**: Sept 2023 – Dec 2023  
+**Tools Used**: Python, Data Visualization, Pandas, Matplotlib  
+
+This project involved analyzing mental health trends during the COVID-19 pandemic in the UK. I created **interactive visualizations** to showcase the impact of the pandemic on wellbeing, using **Pandas** for data manipulation and **Matplotlib** for plotting. The goal was to identify patterns in the data and provide actionable insights.
