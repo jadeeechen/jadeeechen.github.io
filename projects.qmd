@@ -1,11 +1,16 @@
+## Prediction of Mental Illness Severity Based on Age of First Substance Use
+**Link**: [GitHub](https://github.com/DSCI-310-2025/dsci-310-group-7-data-dudes)  
+**Duration**: Jan 2025 – Present  
+**Tools Used**: R, Predictive Modeling, Data Preprocessing  
+
+In this ongoing project, I am analyzing the relationship between the age of first substance use and the presence or severity of mental illness. Using predictive modeling techniques in R, I am developing a robust analysis pipeline that automates data processing and model evaluation. The project emphasizes reproducibility, incorporating version control through GitHub and a containerized computational environment via Docker.
+
 ## Prediction of Student Performance in Mathematics
 **Link**: [GitHub](https://github.com/jadeeechen/stat-301_student-performance-mathematics_winter-2023/blob/main/Project%20-%20Group%20Final%20Report.ipynb)  
 **Duration**: Sept 2023 – Dec 2023  
 **Tools Used**: R, Lasso Regularization, Predictive Modeling  
 
 In this project, I used **Lasso regularization** to predict student performance in mathematics. By applying **predictive modeling** techniques in R, I was able to improve the model’s accuracy by 7%. The project involved extensive **data preprocessing**, feature selection, and **model evaluation**.
-
-
 
 ## Wellbeing During COVID-19 in the UK
 **Link**: [GitHub](https://github.com/samnthorne/dsci320-FinalProject/tree/main)    
