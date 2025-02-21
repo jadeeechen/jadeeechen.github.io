@@ -8,7 +8,7 @@ In this project, I used **Lasso regularization** to predict student performance 
 
 
 ## Wellbeing During COVID-19 in the UK
-**Link**: TODO    
+**Link**: [GitHub](https://github.com/samnthorne/dsci320-FinalProject/tree/main)    
 **Duration**: Sept 2023 – Dec 2023  
 **Tools Used**: Python, Data Visualization, Pandas, Matplotlib  
 
