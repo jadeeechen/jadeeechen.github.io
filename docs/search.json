@@ -32,14 +32,21 @@
     "href": "projects.html",
     "title": "Jade Chen",
     "section": "",
-    "text": "Link: GitHub\nDuration: Sept 2023 – Dec 2023\nTools Used: R, Lasso Regularization, Predictive Modeling\nIn this project, I used Lasso regularization to predict student performance in mathematics. By applying predictive modeling techniques in R, I was able to improve the model’s accuracy by 7%. The project involved extensive data preprocessing, feature selection, and model evaluation."
+    "text": "Link: GitHub\nDuration: Jan 2025 – Present\nTools Used: R, Predictive Modeling, Data Preprocessing\nIn this ongoing project, I am analyzing the relationship between the age of first substance use and the presence or severity of mental illness. Using predictive modeling techniques in R, I am developing a robust analysis pipeline that automates data processing and model evaluation. The project emphasizes reproducibility, incorporating version control through GitHub and a containerized computational environment via Docker."
+  },
+  {
+    "objectID": "projects.html#prediction-of-mental-illness-severity-based-on-age-of-first-substance-use",
+    "href": "projects.html#prediction-of-mental-illness-severity-based-on-age-of-first-substance-use",
+    "title": "Jade Chen",
+    "section": "",
+    "text": "Link: GitHub\nDuration: Jan 2025 – Present\nTools Used: R, Predictive Modeling, Data Preprocessing\nIn this ongoing project, I am analyzing the relationship between the age of first substance use and the presence or severity of mental illness. Using predictive modeling techniques in R, I am developing a robust analysis pipeline that automates data processing and model evaluation. The project emphasizes reproducibility, incorporating version control through GitHub and a containerized computational environment via Docker."
   },
   {
     "objectID": "projects.html#prediction-of-student-performance-in-mathematics",
     "href": "projects.html#prediction-of-student-performance-in-mathematics",
     "title": "Jade Chen",
-    "section": "",
-    "text": "Link: GitHub\nDuration: Sept 2023 – Dec 2023\nTools Used: R, Lasso Regularization, Predictive Modeling\nIn this project, I used Lasso regularization to predict student performance in mathematics. By applying predictive modeling techniques in R, I was able to improve the model’s accuracy by 7%. The project involved extensive data preprocessing, feature selection, and model evaluation."
+    "section": "Prediction of Student Performance in Mathematics",
+    "text": "Prediction of Student Performance in Mathematics\nLink: GitHub\nDuration: Sept 2023 – Dec 2023\nTools Used: R, Lasso Regularization, Predictive Modeling\nIn this project, I used Lasso regularization to predict student performance in mathematics. By applying predictive modeling techniques in R, I was able to improve the model’s accuracy by 7%. The project involved extensive data preprocessing, feature selection, and model evaluation."
   },
   {
     "objectID": "projects.html#wellbeing-during-covid-19-in-the-uk",

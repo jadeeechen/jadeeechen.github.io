@@ -3,7 +3,7 @@
 **Duration**: Jan 2025 – Present  
 **Tools Used**: R, Predictive Modeling, Data Preprocessing  
 
-In this ongoing project, I am analyzing the relationship between the age of first substance use and the presence or severity of mental illness. Using predictive modeling techniques in R, I am developing a robust analysis pipeline that automates data processing and model evaluation. The project emphasizes reproducibility, incorporating version control through GitHub and a containerized computational environment via Docker.
+In this ongoing project, I am analyzing the relationship between the age of first substance use and the presence or severity of mental illness. Using predictive modeling techniques in R, I am developing a robust analysis pipeline that automates data processing and model evaluation. The project emphasizes *reproducibility*, incorporating version control through GitHub and a containerized computational environment via *Docker*.
 
 ## Prediction of Student Performance in Mathematics
 **Link**: [GitHub](https://github.com/jadeeechen/stat-301_student-performance-mathematics_winter-2023/blob/main/Project%20-%20Group%20Final%20Report.ipynb)  
