@@ -1,17 +1,11 @@
 ## About Me  
 
-👋 Hi, I’m **Jade**!
+Hi, I’m Jade! I have a background in psychology and data science. I specialize in analyzing complex data to uncover meaningful insights, with a focus on mental health and social equity. If you're working on something in this space, let’s connect!
 
-👩🏻‍🍳 My journey began in an unexpected place—the kitchen. As a pastry chef, I thrived in fine dining, wholesale, and catering environments, where precision and efficiency were essential. While I loved the craft, I realized that the industry’s lifestyle wasn’t the right long-term fit for me.
-
-🧠 This led me to explore my interest in human behavior, pursuing a **B.A. in Psychology**. I developed a strong foundation in behavioral neuroscience, gravitating toward analytically focused coursework. Through my studies, I became increasingly curious about how data could be used to better understand complex social issues.
-
-👩🏻‍💻 That curiosity led me to pursue a **B.Sc. minor in Data Science**, where I gained expertise in machine learning, statistical modeling, and data visualization. I worked on projects analyzing mental health trends and educational outcomes, blending my passion for psychology with data-driven insights. 
-
-💼 Now, as I approach graduation in **May 2025**, I’m looking for opportunities as a **data analyst** in organizations that use data for social good. My goal is to transform complex data into actionable insights that drive positive change in mental health and beyond.
+If you’d like a copy of my CV, feel free to email me at jadeeechen[at]gmail[dot]com.
 
 ## Education  
-**University of British Columbia**<br>
+**University of British Columbia** (Expected Apr 2025)<br>
 _B.A. Major in Psychology_<br>
 _B.Sc. Minor in Data Science_
 
@@ -23,5 +17,5 @@ I’m the community outreach executive and routesetter at UBC's [Aviary Climbing
 I co-founded [Human Bean Books](https://humanbeanbooks.com/), where I lead secondary research for children's books that promote emotional well-being and literacy.
 
 🍪 **Pastry**<br>
-I still love creating pastries and experimenting with new recipes in my free time. Currently, I am developing a recipe book to share with friends and family.
+I love creating pastries and experimenting with new recipes in my free time. Currently, I am developing a recipe book to share with friends and family.
 
