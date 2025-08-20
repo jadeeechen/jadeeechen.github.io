@@ -1,27 +1,48 @@
 ## About Me  
 
-👋 Hi, I’m **Jade**!
+👋 Hi, I’m **Jade**!  
 
-👩🏻‍🍳 My journey began in an unexpected place—the kitchen. As a pastry chef, I thrived in fine dining, wholesale, and catering environments, where precision and efficiency were essential. While I loved the craft, I realized that the industry’s lifestyle wasn’t the right long-term fit for me.
+🧠 My academic path began with a **major in Psychology**, where I developed a strong foundation in behavioral neuroscience and gravitated toward analytically focused coursework. Along the way, I completed a wide range of computer science courses, but I ultimately discovered that my passion lay in data science.  
 
-🧠 This led me to explore my interest in human behavior, pursuing a **B.A. in Psychology**. I developed a strong foundation in behavioral neuroscience, gravitating toward analytically focused coursework. Through my studies, I became increasingly curious about how data could be used to better understand complex social issues.
+👩🏻‍💻 This led me to pursue a **minor in Data Science**, where I gained expertise in machine learning, statistical modeling, and data visualization. I worked on projects analyzing mental health trends and educational outcomes, blending my background in psychology with data-driven insights.  
 
-👩🏻‍💻 That curiosity led me to pursue a **B.Sc. minor in Data Science**, where I gained expertise in machine learning, statistical modeling, and data visualization. I worked on projects analyzing mental health trends and educational outcomes, blending my passion for psychology with data-driven insights. 
+🎓 Currently, I am pursuing my **Master of Data Science (MDS)** at the University of British Columbia, where I aim to deepen my technical expertise and broaden my ability to apply data science to pressing societal challenges.  
 
-💼 Now, as I approach graduation in **May 2025**, I’m looking for opportunities as a **data analyst** in organizations that use data for social good. My goal is to transform complex data into actionable insights that drive positive change in mental health and beyond.
+💼 I am seeking opportunities as a **data scientist** in organizations that use data for social good. My goal is to transform complex data into actionable insights that drive positive change in mental health and beyond.  
 
 ## Education  
 **University of British Columbia**<br>
-_B.A. Major in Psychology_<br>
-_B.Sc. Minor in Data Science_
+Master of Science, Data Science (expected June 2026)
 
-## Outside of Data  
-🧗 **Climbing**<br>
-I’m the community outreach executive and routesetter at UBC's [Aviary Climbing Gym](https://ubc-aviary.com/), where I set sport climbing problems and organize community events.
+**University of British Columbia**<br>
+Bachelor of Arts, major in Psychology<br>
+Bachelor of Science, minor in Data Science
 
-📖 **Social and Emotional Learning (SEL)**<br>
-I co-founded [Human Bean Books](https://humanbeanbooks.com/), where I lead secondary research for children's books that promote emotional well-being and literacy.
+## Experience  
 
-🍪 **Pastry**<br>
-I still love creating pastries and experimenting with new recipes in my free time. Currently, I am developing a recipe book to share with friends and family.
+**Urban Nature Design Research Lab**    
+*Research Assistant (May 2025 – Present)*  
+- Conducting research on human–nature interaction, including deploying Raspberry Pi sensors, training computer vision models in Python, and conducting scoping reviews.  
+- Investigating social interactions in 200+ Vancouver urban parks through analysis of 30,000+ Google Reviews, involving data collection, preprocessing, NLP workflows using RoBERTa-based models, and latent profile analysis.  
+- Supported by UBC’s Forestry Undergraduate Research Grant (one of five recipients).  
 
+*Project Assistant (Jan 2025 – Apr 2025)*  
+- Researched health equity and access to nature through quantitative and qualitative analysis, data visualization, literature reviews, and preparation of academic outputs.  
+- Delivered research presentations and contributed to manuscripts.  
+
+**Diverse Data Hub**   
+*Academic Assistant (Jun 2025 – Present)*  
+- Developing and maintaining the Diverse Data Hub website and its R and Python packages.  
+- Integrating case studies to support the use of equity-focused data in research and teaching workflows.  
+
+**Cohere**     
+*Data Quality Specialist (Jun 2025 – Present)*  
+- Supporting the Secure AI Platform for Enterprise through quality evaluation and refinement of AI datasets.  
+
+*AI Data Trainer – Multimodal (Apr 2025 – May 2025)*  
+- Annotated and evaluated multimodal datasets to improve AI model performance and reliability.  
+
+**Human Bean Books**      
+*Co-founder and Research Lead (Dec 2023 – Apr 2025)*  
+- Led secondary child psychology research on social and emotional learning (SEL).  
+- Translated scientific literature into accessible educational content, supporting the publication of six children’s books.  
