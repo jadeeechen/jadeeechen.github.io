@@ -11,5 +11,3 @@ about:
       text: Github
       href: https://github.com/jadeeechen
 ---
-
-I'm a data analyst with a background in data science and psychology. I specialize in statistical analysis, predictive modeling, and data visualization using Python, R, and SQL.
